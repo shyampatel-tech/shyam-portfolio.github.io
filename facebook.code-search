@@ -1,0 +1,35 @@
+# Query: facebook
+# ContextLines: 1
+
+10 results - 4 files
+
+index.html:
+    94  		<ul class="intro-social">
+    95: 			<li><a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+    96  			<li><a href="#"><i class="fa fa-behance"></i></a></li>
+
+  1053  				<ul class="footer-social">
+  1054: 					<li><a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+  1055  					<li><a href="#"><i class="fa fa-behance"></i></a></li>
+
+styles.html:
+  107     	<ul class="intro-social">        
+  108:          <li><a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+  109           <li><a href="#"><i class="fa fa-behance"></i></a></li>
+
+  585       			<ul class="footer-social">        
+  586: 			      <li><a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+  587  			      <li><a href="#"><i class="fa fa-behance"></i></a></li>
+
+css/font-awesome/css/font-awesome.css:
+  542  }
+  543: .fa-facebook-square:before {
+  544    content: "\f082";
+
+  612  }
+  613: .fa-facebook:before {
+  614    content: "\f09a";
+
+css/font-awesome/css/font-awesome.min.css:
+  3   *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+  4: ⟪ 7262 characters skipped ⟫efore{content:"\f07c"}.fa-arrows-v:before{content:"\f07d"}.fa-arrows-h:before{content:"\f07e"}.fa-bar-chart-o:before,.fa-bar-chart:before{content:"\f080"}.fa-twitter-square:before{content:"\f081"}.fa-facebook-square:before{content:"\f082"}.fa-camera-retro:before{content:"\f083"}.fa-key:before{content:"\f084"}.fa-gears:before,.fa-cogs:before{content:"\f085"}.fa-comments:before{content:"\f086"}.fa-thumbs-o-up:before{content:"\f087"}.fa-thumbs-o-down:before{content:"\f088"}.fa-star-half:before{content:"\f089"}.fa-heart-o:before{content:"\f08a"}.fa-sign-out:before{content:"\f08b"}.fa-linkedin-square:before{content:"\f08c"}.fa-thumb-tack:before{content:"\f08d"}.fa-external-link:before{content:"\f08e"}.fa-sign-in:before{content:"\f090"}.fa-trophy:before{content:"\f091"}.fa-github-square:before{content:"\f092"}.fa-upload:before{content:"\f093"}.fa-lemon-o:before{content:"\f094"}.fa-phone:before{content:"\f095"}.fa-square-o:before{content:"\f096"}.fa-bookmark-o:before{content:"\f097"}.fa-phone-square:before{content:"\f098"}.fa-twitter:before{content:"\f099"}.fa-facebook:before{content:"\f09a"}.fa-github:before{content:"\f09b"}.fa-unlock:before{content:"\f09c"}.fa-credit-card:before{content:"\f09d"}.fa-rss:before{content:"\f09e"}.fa-hdd-o:before{content:"\f0a0"}.fa-bullhorn:before{content:"\f0a1"}.fa-bell:before{content:"\f0f3"}.fa-certificate:before{content:"\f0a3"}.fa-hand-o-right:before{content:"\f0a4"}.fa-hand-o-left:before{content:"\f0a5"}.fa-hand-o-up:before{content:"\f0a6"}.fa-hand-o-down:before{content:"\f0a7"}.fa-arrow-circle-left:before{content:"\f0a8"}.fa-arrow-circle-right:before{content:"\f0a9"}.fa-arrow-circle-up:before{content:"\f0aa"}.fa-arrow-circle-down:before{content:"\f0ab"}.fa-globe:before{content:"\f0ac"}.fa-wrench:before{content:"\f0ad"}.fa-tasks:before{content:"\f0ae"}.fa-filter:before{content:"\f0b0"}.fa-briefcase:before{content:"\f0b1"}.fa-arrows-alt:before{content:"\f0b2"}.fa-group:before,.fa-users:before{content:"\f0c0"}.fa-chain:before,.fa-link:before{content:"\f0c1"}.fa-cloud:before{content:"\f0c2"}.fa-flask:befor
